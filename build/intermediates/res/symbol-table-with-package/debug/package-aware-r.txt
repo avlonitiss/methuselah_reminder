@@ -68,6 +68,8 @@ dimen subtitle_outline_width
 dimen subtitle_shadow_offset
 dimen subtitle_shadow_radius
 drawable ic_launcher
+drawable ic_launcher_1
+drawable ic_launcher_original
 drawable ic_notification
 drawable list_item_bg
 drawable notification_action_background

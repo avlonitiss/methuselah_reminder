@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri May 17 22:53:53 EEST 2019
+#Fri May 17 23:44:11 EEST 2019
 0.baseType=DIRECTORY
 0.base=C\:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 0.path=classes.dex

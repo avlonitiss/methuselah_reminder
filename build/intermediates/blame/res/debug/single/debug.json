@@ -36,16 +36,16 @@
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\443026c5c4946ba6edebcc4cf2f6088e\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\443026c5c4946ba6edebcc4cf2f6088e\\res\\layout\\notification_template_part_time.xml"
+        "merged": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\443026c5c4946ba6edebcc4cf2f6088e\\res\\layout-v16\\notification_template_custom_big.xml"
     },
     {
         "merged": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\443026c5c4946ba6edebcc4cf2f6088e\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\443026c5c4946ba6edebcc4cf2f6088e\\res\\layout-v16\\notification_template_custom_big.xml"
+        "merged": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\443026c5c4946ba6edebcc4cf2f6088e\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
@@ -100,12 +100,12 @@
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\443026c5c4946ba6edebcc4cf2f6088e\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
-        "source": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\src\\main\\res\\xml\\preferences.xml"
-    },
-    {
         "merged": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\443026c5c4946ba6edebcc4cf2f6088e\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\src\\main\\res\\xml\\preferences.xml"
     },
     {
         "merged": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -134,6 +134,10 @@
     {
         "merged": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\443026c5c4946ba6edebcc4cf2f6088e\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_original.png.flat",
+        "source": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\src\\main\\res\\drawable\\ic_launcher_original.png"
     },
     {
         "merged": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
@@ -174,6 +178,10 @@
     {
         "merged": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\443026c5c4946ba6edebcc4cf2f6088e\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_1.png.flat",
+        "source": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\src\\main\\res\\drawable\\ic_launcher_1.png"
     },
     {
         "merged": "C:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
