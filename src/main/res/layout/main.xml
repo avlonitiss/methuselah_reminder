@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:paddingTop="4sp"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="@color/white">
+
+  <Button
+      android:id="@+id/add_alarm"
+      style="@style/widget"
+      android:background="#EE0A0A"
+      android:onClick="onAddAlarmClick"
+      android:text="ΝΕΑ ΥΠΕΝΘΥΜΙΣΗ"
+      android:textSize="36sp" />
+
+  <ListView
+      android:id="@+id/alarm_list"
+      style="@style/widget"
+      android:cacheColorHint="#00050505" />
+
+</LinearLayout>
+

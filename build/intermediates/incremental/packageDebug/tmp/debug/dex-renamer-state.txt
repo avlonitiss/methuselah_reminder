@@ -1,0 +1,4 @@
+#Fri May 17 22:53:53 EEST 2019
+base.0=C\:\\Users\\User\\Documents\\AndroidStudioProjects\\alarm-me\\methuselah_reminder_app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

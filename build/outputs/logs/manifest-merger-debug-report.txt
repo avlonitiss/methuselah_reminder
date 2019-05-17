@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:2:1-58:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4a843f3b3e10a7d20b1d7c5f17c9c046\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f003033cc62a4aaa97f8943f5b9bfcd9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\df8c3914207f0609dc4573777c0d5bb9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\70a16eb0a494a7808b149c89dc04fc32\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4fee1a5778b2543671fa0de3cf616c66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\09bb35abc13b2e511c5b548575a2775d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\153b248423c517a3b6d4e17d021ede03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\7ffff0dd73521faa7384a972f53c942f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\02f1060cc7d33a15e7aa0ae2e0f66fce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d87903b29f6f149c77d16b78c6df5968\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\514dc5274e550146b41bb284183129a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a0e97ca10a6eebb9db19fea0d8ae4fca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c42415a5699390a68ce9064aaeb01a21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\443026c5c4946ba6edebcc4cf2f6088e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\32a605f415d170e78651457e7ab70a36\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d09fbae76a95f908d2d5d487cdd8e869\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f7a116a3f0945f18242369d0fd456bb0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\fdc7dbd253c358894d9deae5d85c11d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1d0ee7a27605a4c453f02db20457112e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d2ab15610d2d97560fa97c96ce8d3307\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a19b58d00d164ff66c9ef9e0a388a2df\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5e333e4bc059bd972ac04b4ab2d141ff\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\dc8773a608fef8a4aca75bf20f67deff\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\80f354de9b30a5dda6aa4f0313931929\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\74a3fda94f249b156c468942f6da9596\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:3:3-44
+		INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:5:3-31
+		INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:4:3-27
+		INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:6:3-41
+uses-sdk
+ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:8:3-42
+INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:8:3-42
+INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:8:3-42
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4a843f3b3e10a7d20b1d7c5f17c9c046\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4a843f3b3e10a7d20b1d7c5f17c9c046\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f003033cc62a4aaa97f8943f5b9bfcd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f003033cc62a4aaa97f8943f5b9bfcd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\df8c3914207f0609dc4573777c0d5bb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\df8c3914207f0609dc4573777c0d5bb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\70a16eb0a494a7808b149c89dc04fc32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\70a16eb0a494a7808b149c89dc04fc32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4fee1a5778b2543671fa0de3cf616c66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4fee1a5778b2543671fa0de3cf616c66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\09bb35abc13b2e511c5b548575a2775d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\09bb35abc13b2e511c5b548575a2775d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\153b248423c517a3b6d4e17d021ede03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\153b248423c517a3b6d4e17d021ede03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\7ffff0dd73521faa7384a972f53c942f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\7ffff0dd73521faa7384a972f53c942f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\02f1060cc7d33a15e7aa0ae2e0f66fce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\02f1060cc7d33a15e7aa0ae2e0f66fce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d87903b29f6f149c77d16b78c6df5968\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d87903b29f6f149c77d16b78c6df5968\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\514dc5274e550146b41bb284183129a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\514dc5274e550146b41bb284183129a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a0e97ca10a6eebb9db19fea0d8ae4fca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a0e97ca10a6eebb9db19fea0d8ae4fca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c42415a5699390a68ce9064aaeb01a21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c42415a5699390a68ce9064aaeb01a21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\443026c5c4946ba6edebcc4cf2f6088e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\443026c5c4946ba6edebcc4cf2f6088e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\32a605f415d170e78651457e7ab70a36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\32a605f415d170e78651457e7ab70a36\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d09fbae76a95f908d2d5d487cdd8e869\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d09fbae76a95f908d2d5d487cdd8e869\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f7a116a3f0945f18242369d0fd456bb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f7a116a3f0945f18242369d0fd456bb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\fdc7dbd253c358894d9deae5d85c11d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\fdc7dbd253c358894d9deae5d85c11d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1d0ee7a27605a4c453f02db20457112e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1d0ee7a27605a4c453f02db20457112e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d2ab15610d2d97560fa97c96ce8d3307\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d2ab15610d2d97560fa97c96ce8d3307\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a19b58d00d164ff66c9ef9e0a388a2df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a19b58d00d164ff66c9ef9e0a388a2df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5e333e4bc059bd972ac04b4ab2d141ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5e333e4bc059bd972ac04b4ab2d141ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\dc8773a608fef8a4aca75bf20f67deff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\dc8773a608fef8a4aca75bf20f67deff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\80f354de9b30a5dda6aa4f0313931929\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\80f354de9b30a5dda6aa4f0313931929\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\74a3fda94f249b156c468942f6da9596\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\74a3fda94f249b156c468942f6da9596\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:8:3-42
+INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:8:3-42
+	android:maxSdkVersion
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:8:13-39
+	android:targetSdkVersion
+		INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:8:3-42
+		INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:8:3-42
+		INJECTED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:10:3-11:49
+	android:name
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:11:5-46
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:13:3-14:64
+	android:name
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:14:5-61
+application
+ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:16:3-57:17
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\443026c5c4946ba6edebcc4cf2f6088e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\443026c5c4946ba6edebcc4cf2f6088e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\32a605f415d170e78651457e7ab70a36\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\32a605f415d170e78651457e7ab70a36\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\443026c5c4946ba6edebcc4cf2f6088e\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:17:5-37
+	android:icon
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:18:5-41
+activity#com.frontis.methuselah_reminder.AlarmMe
+ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:20:5-28:16
+	android:label
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:22:7-39
+	android:name
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:21:7-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:24:7-27:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:25:9-61
+	android:name
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:25:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:26:9-69
+	android:name
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:26:19-66
+activity#com.frontis.methuselah_reminder.EditAlarm
+ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:30:5-32:36
+	android:label
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:32:7-33
+	android:name
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:31:7-63
+activity#com.frontis.methuselah_reminder.AlarmNotification
+ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:34:5-36:44
+	android:label
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:36:7-41
+	android:name
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:35:7-71
+activity#com.frontis.methuselah_reminder.Preferences
+ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:38:5-40:37
+	android:label
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:40:7-34
+	android:name
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:39:7-65
+activity#com.frontis.methuselah_reminder.About
+ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:42:5-44:31
+	android:label
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:44:7-28
+	android:name
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:43:7-59
+receiver#com.frontis.methuselah_reminder.AlarmReceiver
+ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:46:5-48:35
+	android:process
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:48:7-32
+	android:name
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:47:7-67
+receiver#com.frontis.methuselah_reminder.BootCompletedReceiver
+ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:50:5-55:16
+	android:name
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:50:15-83
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:51:7-54:23
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:52:9-71
+	android:name
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:52:17-68
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:53:9-68
+	android:name
+		ADDED from C:\Users\User\Documents\AndroidStudioProjects\alarm-me\methuselah_reminder_app\src\main\AndroidManifest.xml:53:19-65
